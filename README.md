@@ -3,7 +3,7 @@
 =======
 # software-process
 
-ลองใช้งาน git l;p
+ลองใช้งาน git
 
 # dsada
 >>>>>>> parent of 74b3a9a (TEST2)
