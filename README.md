@@ -1,5 +1,5 @@
 # software-process
 
-ลองใช้งาน git l;p
+ลองใช้งาน git
 
 # dsada
